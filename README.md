@@ -1,2 +1,2 @@
-# Programming
-Experimenting with different programming languages
+# Rust Programming
+Practice and learning rust programming
