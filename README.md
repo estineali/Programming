@@ -1,2 +1,2 @@
-# Programming
-Experimenting with different programming languages
+# JavaWork
+ Learning and practicing Java
